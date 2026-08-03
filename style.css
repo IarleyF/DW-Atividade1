@@ -11,7 +11,8 @@
 }
 
 .imagens{
-    width: 600px;
+    width: 100%;
+    max-width: 600px;
     height: 400px;
     object-fit: cover;
     display: flex;
@@ -22,11 +23,13 @@
     margin-top: 20px;
     margin-bottom: 10px;
     text-align: center;
+    font-size: 40px;
 }
 
 .descricao-ponto-turistico{
     margin-bottom: 40px;
     text-align: justify;
+    font-size: 20px;
 }
 
 .pontos-turisticos{
@@ -49,4 +52,9 @@
     padding: 0;
     max-width: 600px;
     width: 100%;
+    list-style: none;
+}
+
+.lista-pontos li{
+    margin-bottom: 80px;
 }
