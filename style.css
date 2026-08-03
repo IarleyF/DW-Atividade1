@@ -1,0 +1,52 @@
+.menu-site{
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+}
+
+.contato-site{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.imagens{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.itens-lista{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.descricao-ponto-turistico{
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+.pontos-turisticos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+#titulo-pontos{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.lista-pontos{
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    max-width: 600px;
+    width: 100%;
+}
