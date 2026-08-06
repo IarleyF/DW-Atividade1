@@ -17,6 +17,7 @@
     object-fit: cover;
     display: flex;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
 .itens-lista{
@@ -27,7 +28,6 @@
 }
 
 .descricao-ponto-turistico{
-    margin-bottom: 40px;
     text-align: justify;
     font-size: 20px;
 }
@@ -107,4 +107,8 @@
 
 .botao-enviar button{
     margin-left: 140px;
+}
+
+.mapa{
+    margin-top: 20px;
 }
