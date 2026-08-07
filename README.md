@@ -1,7 +1,4 @@
 # DW-Atividade1
-Sim. Se o projeto é apenas **HTML + CSS**, podemos deixar a parte de execução bem simples e remover completamente `npm install` e `npm run dev`.
-
-Eu colocaria assim no README:
 
 ````markdown
 # Turismo em Icapuí
